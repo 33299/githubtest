@@ -1,0 +1,5 @@
+You download Github pull request from vscode
+After installing, you click the setting icon on vscode and you click the command palette
+It brings out a search bar and you type gitclone
+It will bring out a repository url then you type in the url i sent to you and you press enter
+It brings out a folder selection, you willl create a new folder then you press enter which will say 'Select Repository Location' and then it will start cloning after that you press open and it will bring out the files
